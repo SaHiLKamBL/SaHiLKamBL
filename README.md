@@ -63,29 +63,29 @@
 
 <div align="left">
   <!-- LinkedIn -->
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/sahil-kamble-68743028a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/sahil-kamble-68743028a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <img width="12" />
 
   <!-- GitHub -->
-  <a href="[https://github.com/](https://github.com/SaHiLKamBL)" target="_blank">
+  <a href="https://github.com/SaHiLKamBL" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
   </a>
   <img width="12" />
 
-
   <!-- LeetCode -->
-  <a href="[https://leetcode.com/](https://leetcode.com/u/sahil__kamble/)" target="_blank">
+  <a href="https://leetcode.com/u/sahil__kamble/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
   <img width="12" />
 
   <!-- Gmail -->
-  <a href="sahilkamble1205@gmail.com" target="_blank">
+  <a href="mailto:sahilkamble1205@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
+
 
 
 ###
