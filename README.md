@@ -24,7 +24,7 @@ I'm <b>Sahil Kamble</b> 👨‍💻 <br/>
   <img src="https://skillicons.dev/icons?i=c" height="50" />
 </div>
 
----
+
 
 ### 📊 GitHub Stats
 
@@ -33,7 +33,6 @@ I'm <b>Sahil Kamble</b> 👨‍💻 <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaHiLKamBL&layout=compact&theme=dracula" height="160" />
 </div>
 
----
 
 ### 🔗 Connect With Me
 
