@@ -22,6 +22,7 @@ I'm <b>Sahil Kamble</b> 👨‍💻 <br/>
   <img src="https://skillicons.dev/icons?i=python" height="50" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" />
   <img src="https://skillicons.dev/icons?i=c" height="50" />
+   <img src="https://skillicons.dev/icons?i=go" height="50" />
 </div>
 
 
